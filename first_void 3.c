@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include <math.h>
+
 void sayHi( );
 int main(){
 sayHi ("ali", 23);
