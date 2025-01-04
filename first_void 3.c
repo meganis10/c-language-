@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 void sayHi( );
 int main(){
 sayHi ("ali", 23);
